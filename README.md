@@ -25,13 +25,11 @@ Comparison of segmentation performance of different network models on the CAD-PE
 - The batch size we used is 24. If you do not have enough GPU memory, the bacth size can be reduced to 12 or 6 to save memory.
 
 ## 5. New FUMPE dataset
-```
 Upon review, we find significant errors and deviations in the original dataset annotations. So, we reannotated these datasets to ensure accuracy.
 We have uploaded the link for downloading the new FUMPE dataset to our GitHub repository, thereby providing other users with the ability to access and utilize it.
 If you want to use our relabelled dataset, please cite our article.
 
 Donwload link is available at [https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3lpwGYoydR4_UNRrU/view?usp=drive_link](https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3lpwGYoydR4_UNRrU/view?usp=drive_link).
-```
 
 ## 6. Citation
 ```
