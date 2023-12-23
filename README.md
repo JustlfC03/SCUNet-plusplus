@@ -31,6 +31,7 @@ If you want to use our relabelled dataset, please cite our article.
 Donwload link is available at [https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3lpwGYoydR4_UNRrU/view?usp=drive_link](https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3lpwGYoydR4_UNRrU/view?usp=drive_link).
 
 ## 6. Citation
+```
 @InProceedings{Chen_2024_WACV,
     author    = {Chen, Yifei and Zou, Binfeng and Guo, Zhaoxin and Huang, Yiyu and Huang, Yifan and Qin, Feiwei and Li, Qinhai and Wang, Changmiao},
     title     = {SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture With Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation},
@@ -39,6 +40,7 @@ Donwload link is available at [https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3
     year      = {2024},
     pages     = {7759-7767}
 }
+```
 
 ## References
 * [TransUnet](https://github.com/Beckschen/TransUNet)
