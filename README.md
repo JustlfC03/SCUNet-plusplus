@@ -13,7 +13,7 @@ Comparison of segmentation performance of different network models on the CAD-PE
 
 - The datasets/dataset_synapse.py we used are provided by TransUnet's authors.
 
-- ## 3. Environment
+## 3. Environment
 
 - Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
 
@@ -42,8 +42,3 @@ Donwload link is available at [https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3
     pages     = {7759-7767}
 }
 ```
-
-## References
-* [TransUnet](https://github.com/Beckschen/TransUNet)
-* [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
-* [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet)
